@@ -1,0 +1,3 @@
+### 1. What is a Sticky Bit in Linux?
+
+The sticky bit is a special permission that can be set on directories. When the sticky bit is set on a directory, only the owner of the directory, the owner of the file, or the root user can delete or rename the files within that directory.
