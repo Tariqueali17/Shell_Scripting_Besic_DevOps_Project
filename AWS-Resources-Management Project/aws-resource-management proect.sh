@@ -4,9 +4,7 @@
 # Version: v0.2
 # Usage: ./aws-resource-list.sh (It will ask you to add region and select service to see AWS resources)
 # This Script will list all the resources in the AWS account and count them.
-#echo "+----+------------------------+"
-#  echo "| This Script Written By Tarique |"
-#  echo "+----+------------------------+"
+
   figlet -c  "T A R I Q" 
   echo "" 
   figlet -c "D E V O P S   T E A M"
