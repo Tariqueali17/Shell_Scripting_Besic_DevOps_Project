@@ -35,11 +35,14 @@ This project contains a shell script that allows you to list and manage AWS reso
 
 2. Navigate to the project directory:
    ```
-   cd aws-resource-management-project
+   cd Shell_Scripting_Besic_DevOps_Project/
+   ```
+   ```
+   cd AWS-Resources-Management\ Project/
    ```
 
-3. Make the script executable:
-   ```bash
+4. Make the script executable:
+   ```
    chmod +x aws-resource-management-project.sh
    ```
 
