@@ -50,7 +50,7 @@ This project contains a shell script that allows you to list and manage AWS reso
 
 1. Run the script:
    ```
-   ./aws-resource-management.sh
+   ./aws-resource-management-project.sh
    ```
 
 2. The script will prompt you to:
