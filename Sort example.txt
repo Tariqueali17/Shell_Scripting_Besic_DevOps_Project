@@ -1,0 +1,29 @@
+Step-by-Step Guide to Sort Names in a File
+01-Prepare Your File:
+
+Make sure you have a text file that contains the names you want to sort. For example, let's say your file is named names.txt, and it contains the following names:
+Copy code
+John
+Alice
+Bob
+Charlie
+
+02-Open the Terminal:
+
+On Linux or macOS, open your terminal.
+
+03-Use the sort Command:
+
+To sort the names in ascending order, you can use the following command:
+bash
+Copy code
+sort names.txt
+This command will display the sorted names in the terminal.
+
+04-Save the Sorted Output to a New File (Optional):
+
+If you want to save the sorted names to a new file, you can use the output redirection operator (>):
+bash
+Copy code
+sort names.txt > sorted_names.txt
+This command will create a new file named sorted_names.txt containing the sorted names.
