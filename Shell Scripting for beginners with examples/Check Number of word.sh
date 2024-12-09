@@ -1,5 +1,3 @@
-#05-Write a script to print number of "S" in Mississippi
-
 #!/bin/bash
 # Author: Tarique Ali
 # Date: 20-11-2024
